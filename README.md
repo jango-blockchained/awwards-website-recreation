@@ -20,7 +20,7 @@ This project is based on [Akram's](https://github.com/wrongakram) outstanding Aw
 
 # 🔥 Live version
 
-Check it out [here](https://awwwards-rebuilt-furrow.vercel.app)
+Check it out [here](https://furrow-eight.vercel.app)
 
 # ⚛ About the project
 
