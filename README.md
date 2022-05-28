@@ -6,7 +6,7 @@
   Awwwards Furrow Studio Website Rebuilt
 </h3>
 
-[![Author](https://img.shields.io/badge/author-rodrigogama-brightgreen)](https://github.com/rodrigogama)
+[![Author](https://img.shields.io/badge/author-rodrigogama-brightgreen)](https://github.com/reubence)
 [![Issues](https://img.shields.io/github/issues/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/issues)
 [![Stars](https://img.shields.io/github/stars/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/stargazers)
 [![Forks](https://img.shields.io/github/forks/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/network/members)
