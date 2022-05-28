@@ -10,7 +10,7 @@
 [![Issues](https://img.shields.io/github/issues/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/issues)
 [![Stars](https://img.shields.io/github/stars/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/stargazers)
 [![Forks](https://img.shields.io/github/forks/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/network/members)
-[![Contributors](https://img.shields.io/github/contributors/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/reubence/awwwards-website-recreation)](https://github.com/reubence/awwwards-website-recreation/graphs/contributors)
 
 ---
 
