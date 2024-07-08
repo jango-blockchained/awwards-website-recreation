@@ -7,10 +7,10 @@
 </h3>
 
 [![Author](https://img.shields.io/badge/author-reubence-brightgreen)](https://github.com/reubence)
-[![Issues](https://img.shields.io/github/issues/reubence/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/issues)
-[![Stars](https://img.shields.io/github/stars/reubence/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/stargazers)
-[![Forks](https://img.shields.io/github/forks/reubence/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/network/members)
-[![Contributors](https://img.shields.io/github/contributors/reubence/awwwards-website-recreation)](https://github.com/reubence/awwwards-website-recreation/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/issues)
+[![Stars](https://img.shields.io/github/stars/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/stargazers)
+[![Forks](https://img.shields.io/github/forks/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/network/members)
+[![Contributors](https://img.shields.io/github/contributors/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/graphs/contributors)
 
 ---
 
