@@ -6,10 +6,10 @@
   Awwwards Furrow Studio Website Rebuilt
 </h3>
 
-[![Author](https://img.shields.io/badge/author-rodrigogama-brightgreen)](https://github.com/reubence)
-[![Issues](https://img.shields.io/github/issues/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/issues)
-[![Stars](https://img.shields.io/github/stars/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/stargazers)
-[![Forks](https://img.shields.io/github/forks/rodrigogama/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/network/members)
+[![Author](https://img.shields.io/badge/author-reubence-brightgreen)](https://github.com/reubence)
+[![Issues](https://img.shields.io/github/issues/reubence/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/issues)
+[![Stars](https://img.shields.io/github/stars/reubence/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/stargazers)
+[![Forks](https://img.shields.io/github/forks/reubence/awwwards-rebuilt-furrow)](https://github.com/rodrigogama/awwwards-rebuilt-furrow/network/members)
 [![Contributors](https://img.shields.io/github/contributors/reubence/awwwards-website-recreation)](https://github.com/reubence/awwwards-website-recreation/graphs/contributors)
 
 ---
