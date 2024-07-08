@@ -14,10 +14,6 @@
 
 ---
 
-This project is based on [Akram's](https://github.com/wrongakram) outstanding Awwwards Rebuilt series. You can check it on his [YouTube Channel](https://www.youtube.com/c/WrongAkram/videos).
-
----
-
 # 🔥 Live version
 
 Check it out [here](https://furrow-eight.vercel.app)
